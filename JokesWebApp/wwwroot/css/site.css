@@ -1,5 +1,6 @@
 html {
   font-size: 14px;
+  font-family: 'Times New Roman', Times, serif
 }
 
 @media (min-width: 768px) {
@@ -11,6 +12,11 @@ html {
 html {
   position: relative;
   min-height: 100%;
+}
+
+header{
+    background-color: black;
+    color: white;
 }
 
 body {
